@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2C57088D26494F8E0014124D /* charsAndStrings(READ).cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2C57088C26494F8E0014124D /* charsAndStrings(READ).cpp */; };
+		2C57089426495E740014124D /* Structs(READ).cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2C57089326495E740014124D /* Structs(READ).cpp */; };
 		2C653D58263FE15400F22951 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2C653D57263FE15400F22951 /* main.cpp */; };
 		2C653D61263FE7BA00F22951 /* dataTypes(READ).cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2C653D5F263FE7BA00F22951 /* dataTypes(READ).cpp */; };
 		2C653D6A26406BBA00F22951 /* arithmeticOperations(READ).cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2C653D6926406BBA00F22951 /* arithmeticOperations(READ).cpp */; };
@@ -35,6 +36,7 @@
 
 /* Begin PBXFileReference section */
 		2C57088C26494F8E0014124D /* charsAndStrings(READ).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "charsAndStrings(READ).cpp"; sourceTree = "<group>"; };
+		2C57089326495E740014124D /* Structs(READ).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Structs(READ).cpp"; sourceTree = "<group>"; };
 		2C653D54263FE15400F22951 /* MyFirstCPPApp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MyFirstCPPApp; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C653D57263FE15400F22951 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		2C653D5F263FE7BA00F22951 /* dataTypes(READ).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "dataTypes(READ).cpp"; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 			isa = PBXGroup;
 			children = (
 				2C57088C26494F8E0014124D /* charsAndStrings(READ).cpp */,
+				2C57089326495E740014124D /* Structs(READ).cpp */,
 				2C653D782641745F00F22951 /* cycles(READ).cpp */,
 				2C653D7226406EBB00F22951 /* conditionsAndLogicalOpeations(READ).cpp */,
 				2C653D6926406BBA00F22951 /* arithmeticOperations(READ).cpp */,
@@ -163,6 +166,7 @@
 				2C57088D26494F8E0014124D /* charsAndStrings(READ).cpp in Sources */,
 				2C653D7C264177B100F22951 /* exceptions(READ).cpp in Sources */,
 				2C653D792641745F00F22951 /* cycles(READ).cpp in Sources */,
+				2C57089426495E740014124D /* Structs(READ).cpp in Sources */,
 				2C653D58263FE15400F22951 /* main.cpp in Sources */,
 				2C653D822641BA8B00F22951 /* pointersAndReferences(READ).cpp in Sources */,
 				2C653D61263FE7BA00F22951 /* dataTypes(READ).cpp in Sources */,
